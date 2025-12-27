@@ -133,21 +133,21 @@ const Zf = [
     title: "AI Powered Vehicle Inspection",
     company: "Scans.AI",
     description:
-      "Built computer vision workflows for vehicle damage detection and claim assessment, improving reliability by 25%, with help of Hydranet",
+      "Built computer vision workflows for vehicle damage detection and claim assessment with help of Hydranet (CV), improving reliability by 25%",
     image:
       "/public/images/Inspection.png",
     icon: Fi,
-    metrics: ["4 Major Releases", "30-40% Improvement", "Global Clients"],
+    metrics: ["4 Major Releases", "30-40% Improvement", "Global Clients", "Computer Vision"],
   },
   {
     title: "Multi Platform Integration",
     company: "Scans.AI",
     description:
-      "Delivered unified inspection application(iOS/Android/Huawei) like Scans Kenya (Bolt & Uber) and MasterApp (8 companies), combining diverse workflows into scalable solution for inspectors",
+      "Delivered unified inspection application (iOS/Android/Huawei) like Scans Kenya (Bolt & Uber) and MasterApp (8 companies), combining diverse workflows into scalable solution for inspectors",
     image:
       "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=600",
     icon: Ys,
-    metrics: ["Multi-Region", "Offline Support", "Real-time Sync"],
+    metrics: ["Multi-Region", "Multi-Company ", "Offline Support", "Real-time Sync"],
   },
   {
     title: "Data Driven Engagement Platform",
@@ -177,17 +177,17 @@ const Zf = [
     image:
       "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=600",
     icon: Ui,
-    metrics: ["Multiple Teams", "Global Scale", "Agile Delivery"],
+    metrics: ["Multiple Teams", "Global Scale", "Agile Delivery", "SCRUM"],
   },
   {
-    title: "AR & Language conversion Integration",
+    title: "AR & Language Conversion Integration",
     company: "Scans.AI",
     description:
       "Integrated AR for live image qaulity and distance detection. Also, language conversion models for regional expansion, enabling English to French translation",
     image:
       "/public/images/Conversion.png",
     icon: Fi,
-    metrics: ["Regional Expansion", "Multi-language", "Localization"],
+    metrics: ["Augmented Reality", "Regional Expansion", "Multi-language", "Localization"],
   },
 ];
 
