@@ -139,6 +139,16 @@ const Zf = [
     icon: Fi,
     metrics: ["4 Major Releases", "30-40% Improvement", "Global Clients", "Computer Vision"],
   },
+    {
+    title: "AR & Language Conversion Integration",
+    company: "Scans.AI",
+    description:
+      "Integrated AR for live image quality and distance detection. Also, language conversion models for regional expansion, enabling English to French translation",
+    image:
+      "/public/images/Conversion.png",
+    icon: Fi,
+    metrics: ["Augmented Reality", "Regional Expansion", "Multi-language", "Localization"],
+  },
   {
     title: "Multi Platform Integration",
     company: "Scans.AI",
@@ -179,16 +189,7 @@ const Zf = [
     icon: Ui,
     metrics: ["Multiple Teams", "Global Scale", "Agile Delivery", "SCRUM"],
   },
-  {
-    title: "AR & Language Conversion Integration",
-    company: "Scans.AI",
-    description:
-      "Integrated AR for live image quality and distance detection. Also, language conversion models for regional expansion, enabling English to French translation",
-    image:
-      "/public/images/Conversion.png",
-    icon: Fi,
-    metrics: ["Augmented Reality", "Regional Expansion", "Multi-language", "Localization"],
-  },
+
 ];
 
 function Jf() {
