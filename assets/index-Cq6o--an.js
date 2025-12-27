@@ -130,27 +130,27 @@ Error generating stack: `+i.message+`
  */const Ys=ie("Zap",[["polygon",{points:"13 2 3 14 12 14 11 22 21 10 12 10 13 2",key:"45s27k"}]]);function Yf(){const e=()=>{var t;(t=document.getElementById("about"))==null||t.scrollIntoView({behavior:"smooth"})};return c.jsxs("section",{className:"min-h-screen flex items-center justify-center relative px-6 py-12 overflow-hidden",children:[c.jsx("div",{className:"absolute inset-0 bg-gradient-to-br from-teal-50 via-slate-50 to-blue-50 opacity-60"}),c.jsx("div",{className:"absolute top-0 right-0 w-96 h-96 bg-teal-200 rounded-full mix-blend-multiply filter blur-3xl opacity-20 -mr-32 -mt-32"}),c.jsx("div",{className:"absolute bottom-0 left-0 w-96 h-96 bg-blue-200 rounded-full mix-blend-multiply filter blur-3xl opacity-20 -ml-32 -mb-32"}),c.jsxs("div",{className:"relative max-w-5xl w-full text-center z-10",children:[c.jsx("div",{className:"inline-block mb-6 px-6 py-2 bg-white/80 backdrop-blur-sm rounded-full shadow-sm border border-slate-200",children:c.jsx("span",{className:"text-teal-600 font-medium text-sm tracking-wide",children:"PRODUCT MANAGER"})}),c.jsx("h1",{className:"text-7xl md:text-8xl font-bold text-slate-900 mb-6 tracking-tight",children:"Subham Arya"}),c.jsx("p",{className:"text-xl md:text-2xl text-slate-600 mb-12 max-w-3xl mx-auto leading-relaxed",children:"IIM Alum with 2+ years building AI, AR, and Computer Vision-driven platforms for global enterprise clients"}),c.jsxs("div",{className:"flex flex-wrap justify-center gap-6 mb-16",children:[c.jsxs("a",{href:"mailto:er.subhamarya@gmail.com",className:"flex items-center gap-2 text-slate-600 hover:text-teal-600 transition-colors",children:[c.jsx(ac,{className:"w-5 h-5"}),c.jsx("span",{children:"er.subhamarya@gmail.com"})]}),c.jsxs("a",{href:"tel:+917004285870",className:"flex items-center gap-2 text-slate-600 hover:text-teal-600 transition-colors",children:[c.jsx(cc,{className:"w-5 h-5"}),c.jsx("span",{children:"+91-7004285870"})]}),c.jsxs("div",{className:"flex items-center gap-2 text-slate-600",children:[c.jsx(Do,{className:"w-5 h-5"}),c.jsx("span",{children:"Noida, India"})]}),c.jsxs("a",{href:"https://linkedin.com/in/subham-arya",target:"_blank",rel:"noopener noreferrer",className:"flex items-center gap-2 text-slate-600 hover:text-teal-600 transition-colors",children:[c.jsx(uc,{className:"w-5 h-5"}),c.jsx("span",{children:"LinkedIn"})]})]}),c.jsxs("button",{onClick:e,className:"group inline-flex items-center gap-2 px-8 py-4 bg-teal-600 hover:bg-teal-700 text-white rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1",children:[c.jsx("span",{className:"font-medium",children:"View My Work"}),c.jsx(Ks,{className:"w-5 h-5 group-hover:translate-y-1 transition-transform"})]})]}),c.jsx("div",{className:"absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce",children:c.jsx(Ks,{className:"w-6 h-6 text-slate-400"})})]})}function Xf(){return c.jsx("section",{id:"about",className:"py-24 px-6 bg-white",children:c.jsxs("div",{className:"max-w-4xl mx-auto",children:[c.jsxs("div",{className:"text-center mb-12",children:[c.jsx("h2",{className:"text-sm font-semibold text-teal-600 tracking-wide uppercase mb-3",children:"About Me"}),c.jsx("h3",{className:"text-4xl md:text-5xl font-bold text-slate-900",children:"Profile"})]}),c.jsx("div",{className:"bg-gradient-to-br from-slate-50 to-teal-50 rounded-2xl p-8 md:p-12 shadow-sm border border-slate-100",children:c.jsx("p",{className:"text-lg md:text-xl text-slate-700 leading-relaxed",children:"Dynamic Product Manager and IIM alum with 2+ years of experience building and scaling AI, AR and computer vision driven mobile platforms for global enterprise clients. Proven ability to lead cross-functional teams, drive data-informed decisions, and deliver scalable, customer-centric products. CSPO-certified with strong expertise in Agile delivery and stakeholder management."})})]})})} 
 const Zf = [
   {
-    title: "AI-Powered Vehicle Inspection",
+    title: "AI Powered Vehicle Inspection",
     company: "Scans.AI",
     description:
-      "Built computer vision workflows for vehicle damage detection and claim assessment, improving reliability by 25%",
+      "Built computer vision workflows for vehicle damage detection and claim assessment, improving reliability by 25%, with help of Hydranet",
     image:
       "/public/images/Inspection.png",
     icon: Fi,
     metrics: ["4 Major Releases", "30-40% Improvement", "Global Clients"],
   },
   {
-    title: "Multi-Platform Integration",
+    title: "Multi Platform Integration",
     company: "Scans.AI",
     description:
-      "Delivered unified inspection platform for Uber and Bolt, combining diverse workflows into scalable solution",
+      "Delivered unified inspection application(iOS/Android/Huawei) like Scans Kenya (Bolt & Uber) and MasterApp (8 companies), combining diverse workflows into scalable solution for inspectors",
     image:
       "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=600",
     icon: Ys,
     metrics: ["Multi-Region", "Offline Support", "Real-time Sync"],
   },
   {
-    title: "Data-Driven Engagement Platform",
+    title: "Data Driven Engagement Platform",
     company: "IndiaMART InterMESH",
     description:
       "Launched 360 Servicing Engagement Program, enriching 5000+ monthly clients with targeted interventions",
@@ -163,14 +163,14 @@ const Zf = [
     title: "Product Analytics Dashboard",
     company: "IndiaMART InterMESH",
     description:
-      "Optimized profile understanding experience by consolidating data, reducing clicks from 10 to 3",
+      "Optimized sellers profile understanding experience of executives by consolidating data of Sellers, reducing clicks from 10 to 3",
     image:
       "/public/images/Analysis.png",
     icon: Ys,
     metrics: ["70% Less Clicks", "Improved UX", "Better Decisions"],
   },
   {
-    title: "Cross-Functional Leadership",
+    title: "Cross Functional Leadership",
     company: "Multiple Companies",
     description:
       "Led engineering, QA, design, and data teams through complex product lifecycles and aggressive timelines",
@@ -180,10 +180,10 @@ const Zf = [
     metrics: ["Multiple Teams", "Global Scale", "Agile Delivery"],
   },
   {
-    title: "ML Language Integration",
+    title: "AR & Language conversion Integration",
     company: "Scans.AI",
     description:
-      "Integrated language conversion models for regional expansion, enabling English to French translation",
+      "Integrated AR for live image qaulity and distance detection. Also, language conversion models for regional expansion, enabling English to French translation",
     image:
       "/public/images/Conversion.png",
     icon: Fi,
