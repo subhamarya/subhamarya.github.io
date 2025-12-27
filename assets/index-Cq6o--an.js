@@ -165,7 +165,7 @@ const Zf = [
     description:
       "Optimized sellers profile understanding experience of executives by consolidating data of Sellers, reducing clicks from 10 to 3",
     image:
-      "/public/images/Analysis.png",
+      "/public/images/Profile.png",
     icon: Ys,
     metrics: ["70% Less Clicks", "Improved UX", "Better Decisions"],
   },
