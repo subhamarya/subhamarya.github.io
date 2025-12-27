@@ -135,7 +135,7 @@ const Zf = [
     description:
       "Built computer vision workflows for vehicle damage detection and claim assessment, improving reliability by 25%",
     image:
-      "https://drive.google.com/file/d/1vOFjFErg-UEAZd-M5G0iUcEmVrpL1XEu/view?usp=sharing?auto=compress&cs=tinysrgb&w=600",
+      "https://drive.google.com/uc?export=view&id=1vOFjFErg-UEAZd-M5G0iUcEmVrpL1XEu,
     icon: Fi,
     metrics: ["4 Major Releases", "30-40% Improvement", "Global Clients"],
   },
@@ -155,7 +155,7 @@ const Zf = [
     description:
       "Launched 360 Servicing Engagement Program, enriching 5000+ monthly clients with targeted interventions",
     image:
-      "https://drive.google.com/file/d/10hCsJ-uJ4W7ObXn4UbzAuyLTdSC57R7U/view?usp=sharing?auto=compress&cs=tinysrgb&w=600",
+      "https://drive.google.com/uc?export=view&id=10hCsJ-uJ4W7ObXn4UbzAuyLTdSC57R7U,
     icon: Ui,
     metrics: ["5000+ Clients", "200+ Case Studies", "0.8% Churn Reduction"],
   },
@@ -165,7 +165,7 @@ const Zf = [
     description:
       "Optimized profile understanding experience by consolidating data, reducing clicks from 10 to 3",
     image:
-      "https://drive.google.com/file/d/13Rq8Zb1Pyypgp-sgaaZKJ9lhH5zlkhzK/view?usp=sharing?auto=compress&cs=tinysrgb&w=600",
+      "https://drive.google.com/uc?export=view&id=13Rq8Zb1Pyypgp-sgaaZKJ9lhH5zlkhzK,
     icon: Ys,
     metrics: ["70% Less Clicks", "Improved UX", "Better Decisions"],
   },
@@ -185,7 +185,7 @@ const Zf = [
     description:
       "Integrated language conversion models for regional expansion, enabling English to French translation",
     image:
-      "https://drive.google.com/file/d/1FexFCfTyWxUVCTc4F3t78PupqAlAsr7L/view?usp=sharing?auto=compress&cs=tinysrgb&w=600",
+      "https://drive.google.com/uc?export=view&id=1FexFCfTyWxUVCTc4F3t78PupqAlAsr7L,
     icon: Fi,
     metrics: ["Regional Expansion", "Multi-language", "Localization"],
   },
