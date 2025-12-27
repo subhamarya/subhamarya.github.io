@@ -183,7 +183,7 @@ const Zf = [
     title: "AR & Language Conversion Integration",
     company: "Scans.AI",
     description:
-      "Integrated AR for live image qaulity and distance detection. Also, language conversion models for regional expansion, enabling English to French translation",
+      "Integrated AR for live image quality and distance detection. Also, language conversion models for regional expansion, enabling English to French translation",
     image:
       "/public/images/Conversion.png",
     icon: Fi,
